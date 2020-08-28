@@ -9,7 +9,7 @@ Authors@R: c(person("Ting", "Huang", email = "thuang0703@gmail.com", role=c("aut
 	person("Olga", "Vitek", email = "o.vitek@northeastern.edu", role = "aut"))
 Maintainer: Ting Huang <thuang0703@gmail.com>
 License: Artistic-2.0
-Depends: R (>= 4.0)
+Depends: R (>= 3.6)
 Imports: limma, lme4, lmerTest, dplyr, tidyr, statmod, methods,
     reshape2, data.table, matrixStats, stats, utils, ggplot2, grDevices, graphics, MSstats
 Suggests: BiocStyle, knitr, rmarkdown, testthat
